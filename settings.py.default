@@ -1,0 +1,3 @@
+TOKEN = '84....0f0456d9'
+GROUP_ID = 1234
+SETTINGS_KEYBOARD = dict(one_time=False, inline=True)
